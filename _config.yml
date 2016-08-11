@@ -1,0 +1,14 @@
+layout_spectrum: 0.7845358
+typography_spectrum: 0.8916194
+color:
+  saturation: 0.9816964
+  lightness: 0.4790715
+  brandStrength: 0.4828498
+  rhythmicContrast: 0.2977846
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: MAAVI
