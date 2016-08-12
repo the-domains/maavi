@@ -1,8 +1,17 @@
-layout_spectrum: 0.7845358
-typography_spectrum: 0.8916194
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9816964
-  lightness: 0.4790715
   brandStrength: 0.4828498
   rhythmicContrast: 0.2977846
   brandColors:
@@ -11,4 +20,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  lightness: 0.4790715
+typography_spectrum: 0.1423201
+layout_spectrum: 0.9844254
 name: MAAVI
